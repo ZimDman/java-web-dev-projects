@@ -1,2 +1,9 @@
-package PACKAGE_NAME;public class Course {
+import java.util.ArrayList;
+
+public class Course {
+
+    private String subject;
+    private Teacher instructor;
+    private ArrayList<Student> currentStudents;
+
 }
