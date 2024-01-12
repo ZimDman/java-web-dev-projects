@@ -5,7 +5,7 @@ import java.util.HashMap;
 public class Main {
     public static void main(String[] args) {
         // Test out your Divide() function!
-        System.out.println(Divide(20, 20));
+        System.out.println(Divide(20, 0));
 
         HashMap<String, String> studentFiles = new HashMap<>();
         studentFiles.put("Carl", "Program.java");

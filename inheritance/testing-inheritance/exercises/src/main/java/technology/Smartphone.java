@@ -1,2 +1,4 @@
-package technology;public class Smartphone {
+package technology;
+
+public class Smartphone {
 }

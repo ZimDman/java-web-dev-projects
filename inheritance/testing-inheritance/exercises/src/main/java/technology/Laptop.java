@@ -1,2 +1,4 @@
-package technology;public class Laptop {
+package technology;
+
+public class Laptop {
 }
